@@ -1,0 +1,18 @@
+ATAGGGCTAACGTGCTTA
+['cut', '5', '8']
+ATAGAACGTGCTTA
+['front', '9', '12']
+TGCTATAGAACGTA
+['report', '12', '13']
+result: GT
+TGCTATAGAACGTA
+['double', '5', '7']
+TGCTATAATAGAACGTA
+['back', '1', '1']
+GCTATAATAGAACGTAT
+['report', '5', '11']
+result: TAATAGA
+GCTATAATAGAACGTAT
+['report', '4', '4']
+result: A
+GCTATAATAGAACGTAT

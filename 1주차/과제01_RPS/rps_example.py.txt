@@ -1,0 +1,17 @@
+def input_block():
+    return input().strip().split()
+
+def battle(a,b):
+    if a == 'R' and b == 'P':
+        return 'P'
+    else:
+        return 'D'
+    
+def output_block(a,b):
+    print(battle(a,b))
+    
+    
+if __name__ == "__main__":
+    a,b = (0,0)
+    a, b = input_block()
+    output_block(a,b)

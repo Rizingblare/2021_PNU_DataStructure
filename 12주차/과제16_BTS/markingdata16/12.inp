@@ -1,0 +1,42 @@
++ a
++ ab
++ abc
++ abcd
++ abcde
++ abcdef
++ abcdefg
++ abcdefgh
++ abcdefghi
++ abcdefghijkl
++ abcdefghijklm
++ abcdefghijklmn
++ abcdefghijklmnop
++ abcdefghijklmnopq
++ abcdefghijklmnopqr
++ abcdefghijklmnopqrs
++ abcdefghijklmnopqrst
++ abcdefghijklmnopqrstu
++ abcdefghijklmnopqrstuv
+leaf
+- a
+- ab
+- abc
+- abcd
+- abcde
+- abcdef
+- abcdefg
+- abcdefgh
+- abcdefghi
+- abcdefghijkl
+- abcdefghijklm
+- abcdefghijklmn
+- abcdefghijklmnop
+- abcdefghijklmnopq
+- abcdefghijklmnopqr
+- abcdefghijklmnopqrs
+- abcdefghijklmnopqrst
+- abcdefghijklmnopqrstuv
+leaf
+depth 1
+depth 2
+quit
